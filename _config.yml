@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Bhaskara Ram
+longtitle:        My personal Gitbook
+author:           Bhaskar
+email:            bhaskar@parrotsec.in
 description: >
-  Build Jekyll site with the GitBook style.
+  Here i will share content about tutorials, technologies and related stuff of blockchain and cryptography and finally hacking.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              ''
+baseurl:          ''
 rss:              RSS
 
 toc:
